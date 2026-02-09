@@ -1,18 +1,18 @@
 # Insurance Cost Prediction Project
 
-## 📌 Project Title
+## Project Title
 **Insurance Cost Prediction using Machine Learning**
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project focuses on predicting medical insurance costs based on customer demographic and health-related factors using Machine Learning models. The objective is to analyze how different attributes such as age, BMI, smoking habits, number of children, and region influence insurance charges and to build a predictive model for accurate cost estimation.
 
 This project is implemented using Python and common data science libraries in a Jupyter Notebook environment.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Understand factors affecting insurance costs
 - Perform Exploratory Data Analysis (EDA)
 - Clean and preprocess data
@@ -22,7 +22,7 @@ This project is implemented using Python and common data science libraries in a 
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 1. Data Loading
 2. Data Cleaning
 3. Exploratory Data Analysis (EDA)
@@ -35,7 +35,7 @@ This project is implemented using Python and common data science libraries in a 
 
 ---
 
-## 🗂️ Dataset Features
+## Dataset Features
 Typical columns used in insurance prediction:
 - `age` – Age of the customer
 - `sex` – Gender
@@ -47,7 +47,7 @@ Typical columns used in insurance prediction:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -58,7 +58,7 @@ Typical columns used in insurance prediction:
 
 ---
 
-## 📊 ML Models Used
+## ML Models Used
 - Linear Regression
 - (Optional if implemented)
   - Decision Tree Regressor
@@ -67,7 +67,7 @@ Typical columns used in insurance prediction:
 
 ---
 
-## 📈 Model Evaluation Metrics
+## Model Evaluation Metrics
 - R² Score
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
@@ -75,38 +75,7 @@ Typical columns used in insurance prediction:
 
 ---
 
-## 📂 Project Structure
-```
-PSCP-1021-InsCostPred-Project.ipynb
-README.md
-```
-
----
-
-## ▶️ How to Run the Project
-1. Clone the repository:
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project folder:
-```bash
-cd Insurance-Cost-Prediction
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the notebook:
-```bash
-jupyter notebook PSCP-1021-InsCostPred-Project.ipynb
-```
-
----
-
-## 📌 Output
+## Output
 - Data visualizations
 - Model performance evaluation
 - Predicted insurance cost values
@@ -114,7 +83,7 @@ jupyter notebook PSCP-1021-InsCostPred-Project.ipynb
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - End-to-end ML project workflow
 - Regression model implementation
 - Data preprocessing techniques
@@ -123,7 +92,7 @@ jupyter notebook PSCP-1021-InsCostPred-Project.ipynb
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Deploy model using Flask/FastAPI
 - Create web-based prediction app
 - Add more ML models
@@ -132,11 +101,9 @@ jupyter notebook PSCP-1021-InsCostPred-Project.ipynb
 
 ---
 
-## 👨‍💻 Author
-**Aravind M**
+## Author
+**Aravindhan M**  
+Data Science | Machine Learning | Power BI
 
 ---
-
-## 📜 License
-This project is for educational purposes only.
 
